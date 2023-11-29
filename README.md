@@ -10,7 +10,7 @@
 
 ### Description
 
-This Android app allows ussers to search for locations to visit and explore actvities todo at locations 
+This Android app allows users to search for locations to visit and explore actvities todo at locations.
 
 ### App Evaluation
 
@@ -18,11 +18,15 @@ This Android app allows ussers to search for locations to visit and explore actv
 - **Category:**
   Travel
 - **Mobile:**
-  This app gives users 
+  This app gives users the unqiue expierece of exploring what destination have to offer. Offers Advanced descriptions and insight to locations. 
 - **Story:**
+  This story is compelling because it gives users the joy of being intractive with plannnig an joyful getaway.
 - **Market:**
+  People looking to explore the world this app benficts them in a variety of ways. Size and scale of potential user base is anyone looking to travel to a popular destination. App provides huge value to a niche group of people who have the means and funds to travel.
 - **Habit:**
+ Users of the app will open it and use it when planning a trip or exploring different destinations to travel too. 
 - **Scope:**
+App is very technically challenging to complete. However, interesting and exciting to build. Outline of the product is clear and concise and ready to build.
 
 ## Product Spec
 
@@ -30,13 +34,13 @@ This Android app allows ussers to search for locations to visit and explore actv
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. App Runs
+2. Button functionality runs
+3. Scrolling and Typing features work
 
 **Optional Features**
 
-1. [fill in your optional user features here]
+1. ...
 2. ...
 3. ...
 
