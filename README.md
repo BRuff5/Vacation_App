@@ -10,13 +10,15 @@
 
 ### Description
 
-[Description of your app]
+This Android app allows ussers to search for locations to visit and explore actvities todo at locations 
 
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
 - **Category:**
+  Travel
 - **Mobile:**
+  This app gives users 
 - **Story:**
 - **Market:**
 - **Habit:**
