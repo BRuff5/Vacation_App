@@ -46,29 +46,27 @@ App is very technically challenging to complete. However, interesting and exciti
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Home Screen
+  - Explore button
+- Main Screen
+  - Search Element
+  - List view
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Opening explore
+* Exploring Desitnations
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Home Page
+  - traveling picture
+  - Start Button
+- Search Screen
+  - Search widget
+  - List View
 
 ## Wireframes
 
@@ -77,10 +75,6 @@ App is very technically challenging to complete. However, interesting and exciti
 <br>
 
 <br>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 <br>
 
