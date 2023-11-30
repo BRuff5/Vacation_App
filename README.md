@@ -70,7 +70,7 @@ App is very technically challenging to complete. However, interesting and exciti
 
 ## Wireframes
 
-image.png
+<img src="https://drive.google.com/file/d/1MOg8rBhPpnHkBoQCz5iPm_FDkwE754EF/view?usp=sharing" width=600>
 
 <br>
 
