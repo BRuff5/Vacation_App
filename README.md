@@ -66,7 +66,7 @@
 
 ## Wireframes
 
-<img src="IMG_0698.HEIC" width=600>
+<img src="https://github.com/BRuff5/Vacation_App/blob/main/IMG_0698.HEIC" width=600>
 
 <br>
 
