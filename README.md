@@ -93,9 +93,6 @@ This Android app allows users to search for locations to visit and explore activ
 
 ## GitHub Project board
 
-- <img src="https://github.com/BRuff5/Vacation_App/blob/main/Image.JPEG?raw=true" width=600>
-
-## Completed user stories
 
 - List the completed user stories from this unit
 - List any pending user stories / any user stories you decided to cut
