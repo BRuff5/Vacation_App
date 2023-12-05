@@ -87,7 +87,7 @@ This Android app allows users to search for locations to visit and explore activ
 ## Issue cards
 
 - <img src="https://github.com/BRuff5/Vacation_App/blob/main/Image.JPEG?raw=true" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]
 
 # Milestone 3 - Build Sprint 2 (Unit 9)
 
