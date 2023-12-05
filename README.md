@@ -52,9 +52,9 @@ This Android app allows users to search for locations to visit and explore activ
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home Tab
+* Search Location
+* Destination Information (Hotels and activities)
 
 **Flow Navigation** (Screen to Screen)
 
