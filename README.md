@@ -98,8 +98,6 @@ This Android app allows users to search for locations to visit and explore activ
 - List any pending user stories / any user stories you decided to cut
 from the original requirements
 
-[Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ## App Demo Video
 
